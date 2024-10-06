@@ -36,7 +36,7 @@
         "swagger-jsdoc": "^6.1.0",
         "swagger-ui-express": "^4.5.0",
         "winston": "^3.3.3",
-        "winston-transport-sentry-node": "^2.6.0"
+        "winston-transport-sentry-node": "^2.7.1"
     },
     "devDependencies": {
         "chai": "^4.3.4",
